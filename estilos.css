@@ -1,0 +1,12 @@
+body{
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    
+}
+
+#excuse{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+}
